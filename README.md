@@ -1,2 +1,3 @@
 # Learning-To-Code
-a
+
+A set of exersises problems and tutorials in order to learn to code.
