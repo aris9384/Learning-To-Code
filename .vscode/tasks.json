@@ -6,7 +6,8 @@
         {
             "taskName": "open web server",
             "command": "serve -p 8000 web",
-            "type": "shell"
+            "type": "shell",
+            "problemMatcher": []
         }
     ]
 }
