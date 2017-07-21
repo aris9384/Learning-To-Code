@@ -1,0 +1,29 @@
+#kostas {
+    color: red;
+    background-color: black;
+    position: absolute;
+    top: 30px;
+    right: 200px;
+    z-index: 10;
+}
+
+.prasinofonto {
+    background-color: green;
+    color: white;
+    font-size: 9px;
+    padding: 1px 1px 1px 21px;
+}
+body {
+    margin: 0px;
+}
+
+#aggelina {
+    color: red;
+    background-color: #3f3f3f;
+    z-index: 10;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    height: 20px;
+    text-align: center;
+    vertical-align: center;
+}
