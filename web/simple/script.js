@@ -1,3 +1,3 @@
-console.log("kk")
-a=3
-console.log(a)
+console.log("kk");
+var a=3;
+console.log(a);
